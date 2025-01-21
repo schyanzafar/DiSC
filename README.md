@@ -1,5 +1,5 @@
 # DiSC
-This repository contains the R scripts and data files used to produce the results, figures and tables reported in Zafar and Nicholls (2021) "Measuring diachronic sense change: new models and Monte Carlo methods for Bayesian inference".
+This repository contains the R scripts and data files used to produce the results, figures and tables reported in [Zafar and Nicholls (2022)](https://doi.org/10.1111/rssc.12591): "Measuring Diachronic Sense Change: New Models and Monte Carlo Methods for Bayesian inference".
 
 **Data extraction and snippets:**
 The ancient Greek data used to extract snippets for "kosmos" is freely available online. Links included in the file "Greek data extraction.R" point to the data sources, and the code may be used to extract the snippets. Alternatively, the file "kosmos_snippets.RData" contains the extracted snippets ready to use. Two versions of the "kosmos" snippets are included, i.e. including and excluding non-collocates.
